@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">byddybbyd</h1>
-
-> 6Lip6IOM
+<img align="center" src="https://img.shields.io/badge/6Lip6IOM-blue" alt="6Lip6IOM">

@@ -15,5 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">byddybbyd</h1>
-<img align="center" src="https://img.shields.io/badge/6Lip6IOM-blue" alt="6Lip6IOM">
+<div align="center">
+
+# byddybbyd
+<img src="https://img.shields.io/badge/6Lip6IOM-blue" alt="6Lip6IOM">
+
+<div align="left">
+
+## Table
+| 1st | 2nd | 3rd | 4th | 5th |
+| :--- | :--- | :--- | :--- | :--- |
+| a | b | c | d | e |
+| H | He | Li | Be | B |
+|  |  |  |  |  |

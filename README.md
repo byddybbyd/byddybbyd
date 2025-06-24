@@ -19,27 +19,6 @@ Here are some ideas to get you started:
 
 # byddybbyd
 
-<img src="https://img.shields.io/badge/6Lip6IOM-blue" alt="6Lip6IOM">  
-**[<kbd>1st</kbd>](#1st)**
-**[<kbd>2nd</kbd>](#2nd)**
-**[<kbd>3rd</kbd>](#3rd)**
-**[<kbd>4th</kbd>](#4th)**
-**[<kbd>5th</kbd>](#5th)**
+<img src="https://img.shields.io/badge/6Lip6IOM-blue" alt="6Lip6IOM">
 
 <div align="left">
-
-## 1st
-
-
-## 2nd
-
-
-## 3rd
-
-
-## 4th
-
-
-## 5th
-
-

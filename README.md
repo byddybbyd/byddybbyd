@@ -18,13 +18,28 @@ Here are some ideas to get you started:
 <div align="center">
 
 # byddybbyd
-<img src="https://img.shields.io/badge/6Lip6IOM-blue" alt="6Lip6IOM">
+
+<img src="https://img.shields.io/badge/6Lip6IOM-blue" alt="6Lip6IOM">  
+**[<kbd>1st</kbd>](#1st)**
+**[<kbd>2nd</kbd>](#2nd)**
+**[<kbd>3rd</kbd>](#3rd)**
+**[<kbd>4th</kbd>](#4th)**
+**[<kbd>5th</kbd>](#5th)**
 
 <div align="left">
 
-## Table
-| 1st | 2nd | 3rd | 4th | 5th |
-| :--- | :--- | :--- | :--- | :--- |
-| a | b | c | d | e |
-| H | He | Li | Be | B |
-|  |  |  |  |  |
+## 1st
+
+
+## 2nd
+
+
+## 3rd
+
+
+## 4th
+
+
+## 5th
+
+

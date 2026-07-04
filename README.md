@@ -1,24 +1,20 @@
-<!--
-## Hi there 👋
+> [!CAUTION]
+> mS49xP2qL7vB5cN0
 
-**byddybbyd/byddybbyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
-
-# byddybbyd
-
-<img src="https://img.shields.io/badge/6Lip6IOM-blue" alt="6Lip6IOM">
-
-<div align="left">
+# R2t7Dn5zQ8
+9s7kR2pG5zQ8tDn4  
+bV0cM6jFhL1xYdS3  
+aUgWeBqNiJmOzCvP  
+rXlTyKfEhDgSbNuZ  
+7290513846qrwjlp  
+vmchxztGQAZSXECD  
+RFVBYHNUMIKOLPJ0  
+987654321dsnbrtv  
+azgyxwqepolkmiju  
+hfcvndsbzrtyxwq1  
+234567890ALSKDJF  
+HGMVCNBXZPERUTYI  
+O5927401836gfdsa  
+POIUYTREWQMzxcvB  
+NMLKJhjsdfGHJKLP  
+OYTREWQA0192837465
